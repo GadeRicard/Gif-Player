@@ -6,6 +6,7 @@ comment1.target=MyWorld()
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
 comment2.params=
 comment2.target=void\ act()
+comment2.text=\r\n\ act\ Method\ runs\ every\ frame\ when\ run\ is\ pressed,\ and\ every\ time\ act\ is\ pressed\r\n
 comment3.params=d
 comment3.target=void\ setSlowness(int)
 comment3.text=\r\n\ setSlowness\ allows\ the\ user\ to\ set\ the\ speed\ of\ the\ gif\r\n\ \r\n\ @param\ The\ parameter\ is\ an\ integer\r\n\ @return\ There\ is\ no\ return\ type\r\n

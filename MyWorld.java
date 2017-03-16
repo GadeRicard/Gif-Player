@@ -31,6 +31,9 @@ public class MyWorld extends World
         setBackground(frames[0]);
     }
     
+    /**
+     * act Method runs every frame when run is pressed, and every time act is pressed
+     */
     public void act()
     {
         setBackground( frames[actCycle % frames.length] );
